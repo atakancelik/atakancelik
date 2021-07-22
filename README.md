@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/celik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="celik" height="30" width="40" /></a>
+<a href="https://dev.to/celik" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="celik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atakncelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakncelik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16505041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16505041" height="30" width="40" /></a>
 <a href="https://medium.com/@atakancelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakancelik" height="30" width="40" /></a>
