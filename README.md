@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/celik" target="blank"><img align="center" src="https://camo.githubusercontent.com/1f3c6413af566c3bdc34d592cb5f299bf014242798daf4854b3c531ad522b904/68747470733a2f2f6432666c746978307632653073622e636c6f756466726f6e742e6e65742f6465762d62616467652e737667" alt="celik" height="30" width="40" data-canonical-src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style="max-width:100%;background-color: white;"></a>
 <a href="https://linkedin.com/in/atakncelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atakncelik" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16505041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16505041" height="30" width="40" /></a>
 <a href="https://medium.com/@atakancelik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atakancelik" height="30" width="40" /></a>
