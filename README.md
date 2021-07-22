@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atakan Çeş,l</h1>
+<h1 align="center">Hi 👋, I'm Atakan Çelik</h1>
 <h3 align="center">Software Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atakancelik&label=Profile%20views&color=0e75b6&style=flat" alt="atakancelik" /> </p>
